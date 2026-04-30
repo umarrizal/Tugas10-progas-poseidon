@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/* Kalkulator dibuat oleh Fikri - fitur dasar matematika */
 int main() {
     int a, b;
 

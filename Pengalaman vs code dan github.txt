@@ -1,0 +1,9 @@
+Saya belajar menggunakan Git untuk mengelola versi kode, seperti melakukan commit, membuat branch, dan melakukan push ke GitHub. Git membantu saya melacak perubahan pada kode secara lebih terstruktur.
+
+Saya juga belajar GitHub sebagai platform untuk menyimpan dan membagikan proyek. Dengan GitHub, saya dapat bekerja secara kolaboratif melalui repository dan pull request.
+
+Selain itu, saya menggunakan VS Code sebagai text editor untuk menulis dan mengedit kode program C.
+
+Tantangan yang saya hadapi adalah memahami alur branch dan commit di Git, serta error saat file tidak terbaca atau tidak ter-track. Cara mengatasinya adalah dengan mengecek status Git, memastikan berada di folder repository yang benar, serta membaca pesan error dengan teliti.
+
+Kesimpulannya, Git, GitHub, dan VS Code sangat membantu dalam pengembangan proyek secara kolaboratif dan terstruktur.
